@@ -1,5 +1,6 @@
 CODE OF THE ANALYSIS PERFORMED IN THE T-ALL RELAPSE EVOLUTION IN ADULT PATIENTS PROJECT
 ---
+[![DOI](https://zenodo.org/badge/305708660.svg)](https://zenodo.org/badge/latestdoi/305708660)
 
 *The code is organized in the following folders:*
 
