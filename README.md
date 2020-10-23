@@ -38,7 +38,7 @@ cohort/
 
 This working directory structure was used in the code			
 
-** STEPS TO REPRODUCE THE ANALYSIS **
+**STEPS TO REPRODUCE THE ANALYSIS**
 
 The following intructions are in the right order to obtain the same results
 
