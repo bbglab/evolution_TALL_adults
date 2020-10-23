@@ -1,0 +1,163 @@
+SYMBOL	ROLE	SOURCE	TYPE	PATHWAY	PATHWAY_SOURCE
+ABL1	act	Vlierberghe_2012	ALL	Integrin signalling pathway	PANTHER
+CDKN2A	lof	Vlierberghe_2012/Ma_2018	ALL	Cell cycle	PANCAN_PAPER
+CDKN2B	lof	Vlierberghe_2012/Ma_2018	TALL	Cell cycle	GeneCard
+TP53	lof	Ma_2018	ALL	p53 pathway	PANTHER
+RB1	lof	Bertino_1996	ALL	p53 pathway	PANTHER
+CCND3	lof	Ma_2018	TALL	Cell cycle	PANTHER
+EZH2	lof	Vlierberghe_2012/Ma_2018	TALL	Chromatin histone modifiers	GeneCard
+SUZ12	lof	Vlierberghe_2012/Ma_2018	TALL	Chromatin histone modifiers	REACTOME
+EED	lof	Vlierberghe_2012/Ma_2018	TALL	Chromatin histone modifiers	GeneCard
+PHF6	lof	Vlierberghe_2012	TALL	Chromatin other	PANTHER
+SETD2	lof	Ma_2018	ALL	Chromatin histone modifiers	PANCAN_PAPER
+CREBBP	lof	Ma_2018	ALL	Wnt signaling pathway	PANTHER
+ZNF217	act	Ma_2018	ALL		
+KMT2A	lof	Ma_2018	ALL	Chromatin histone modifiers	PANCAN_PAPER
+KDM6A	lof	Ma_2018	ALL	Chromatin histone modifiers	PANCAN_PAPER
+EP300	lof	Ma_2018	BALL	Wnt signaling pathway	PANTHER
+WHSC1	act	Ma_2018	ALL	Chromatin histone modifiers	PANCAN_PAPER
+IDH1	act	aecc_analysis/Anderson_2011	BALL	Metabolism	PANCAN_PAPER
+IDH2	act	aecc_analysis/Anderson_2011	BALL	Metabolism	PANCAN_PAPER
+TET2	lof	aecc_analysis	ALL	Chromatin other	Literature
+DNMT3A	lof	Neumann_2013	TALL	Epigenetics DNA modifiers	PANCAN_PAPER
+ASXL2	lof	Ma_2018	TALL	Chromatin other	PANCAN_PAPER
+KMT2D	lof	Ma_2018	ALL	Chromatin histone modifiers	PANCAN_PAPER
+SMARCA4	lof	Ma_2018	TALL	Wnt signaling pathway	PANTHER
+CTCF	lof	Ma_2018	ALL	Chromatin other	PANCAN_PAPER
+ASXL1	lof	Zhang_2016	ALL	Chromatin other	PANCAN_PAPER
+KMT2C	lof	Zhang_2016	ALL	Chromatin histone modifiers	PANCAN_PAPER
+NCOR1	lof	Ma_2018	ALL	Chromatin histone modifiers	PANTHER
+ARID1A	lof	Ma_2018	ALL	Wnt signaling pathway	PANTHER
+ARID2	lof	Ma_2018	BALL	Chromatin SWI/SNF complex	PANCAN_PAPER
+NR3C1	lof	Oshima_2016	ALL	Gonadotropin-releasing hormone receptor pathway	PANTHER
+NR3C2	lof	Li_2020	ALL	Gonadotropin-releasing hormone receptor pathway	PANTHER
+JAK1	act	Vlierberghe_2012/Ma_2018	TALL	JAK/STAT signaling pathway	PANTHER
+JAK2	act	Vlierberghe_2012/Ma_2018	ALL	JAK/STAT signaling pathway	PANTHER
+JAK3	act	Vlierberghe_2012/Ma_2018	TALL	JAK/STAT signaling pathway	PANTHER
+IL7R	act	Vlierberghe_2012/Ma_2018	TALL	JAK/STAT signaling pathway	Literature
+STAT5B	act	Ma_2018	ALL	JAK/STAT signaling pathway	PANTHER
+PTPN2	lof	Ma_2018	TALL	JAK/STAT signaling pathway	Literature
+CRLF2	act	Ma_2018	BALL	JAK/STAT signaling pathway	GeneCard
+SH2B3	lof	Ma_2018	BALL	JAK/STAT signaling pathway	Literature
+IKZF1	lof	Ma_2018	ALL	NF-KappaB signaling	GeneCard
+PAX5	lof	Ma_2018	BALL	Transcriptional misregulation in cancer	GeneCard
+RAG1	act	Ma_2018	BALL	MAPK6/MAPK4 signaling	REACTOME
+IKZF5	lof	aecc_analysis	ALL	NF-KappaB signaling	GeneCard
+ETV6	lof	Vlierberghe_2012/Ma_2018	ALL	Transcriptional misregulation in cancer	GeneCard
+RUNX1	lof	Vlierberghe_2012/Bhojwani_2012/Ma_2018	ALL	Transcription factor	PANCAN_PAPER
+LEF1	act	Ma_2018/Vlierberghe_2012	TALL	Wnt signaling pathway	PANTHER
+BTG1	lof	Ma_2018	BALL	Cell cycle	GeneCard
+XBP1	lof	Ma_2018	BALL	p53 pathway	Literature
+EBF1	lof	Ma_2018	BALL	Transcriptional regulation of white adipocyte differentiation	REACTOME
+TCF3	lof	Ma_2018	BALL	Wnt signaling pathway	PANTHER
+CD200	lof	Ma_2018	BALL	Cell-cell adhesion	GeneCard
+RAG2	act	Ma_2018	BALL	Cytokine Signaling in Immune system	REACTOME
+PAG1	lof	Holmfledt_2013	BALL	PI3 kinase pathway	GeneCard
+NOTCH1	act	Vlierberghe_2012/Ma_2018	TALL	Notch signaling pathway	PANTHER
+FBXW7	lof	Vlierberghe_2012/Ma_2018	TALL	Notch signaling pathway	PANTHER
+RB1	lof	Vlierberghe_2012/Ma_2018	BALL	p53 pathway	PANTHER
+NOTCH2	act		ALL	Notch signaling pathway	PANTHER
+TAN1	act	Tosello_2013		Notch signaling pathway	PANTHER
+PTEN	lof	Vlierberghe_2012/Ma_2018	TALL	PI3 kinase pathway	Literature
+PIK3CA	act	Ma_2018	TALL	PI3 kinase pathway	PANTHER
+AKT1	act	Ma_2018	TALL	PI3 kinase pathway	GeneCard
+mTOR	act	Lindqvist_2016/Kasada_2013	TALL	PI3 kinase pathway	GeneCard
+MTOR	act	Lindqvist_2016/Kasada_2013	TALL	PI3 kinase pathway	GeneCard
+PIK3CD	act	Ma_2018	TALL	PI3 kinase pathway	PANTHER
+PIK3R1	act	Ma_2018	TALL	PI3 kinase pathway	PANTHER
+NRAS	act	Vlierberghe_2012/Ma_2018	ALL	Ras Pathway	Literature
+NF1	lof	Vlierberghe_2012/Ma_2018	ALL	Ras Pathway	literature
+KRAS	act	Ma_2018	ALL	Ras Pathway	Literature
+PTPN11	act	Ma_2018	BALL	Ras Pathway	Literature
+CBL	ambiguous	Ma_2018	BALL	Ras Pathway	PANTHER
+FLT3	act	Neumann_2013/Vlierberghe_2012/Ma_2018	ALL	Ras Pathway	literature
+RPL5	lof	Ma_2018	TALL	p53 pathway	Literature
+RPL22	lof	Ma_2018	TALL	NF-KappaB signaling	Literature
+RPL10	act	Ma_2018	TALL	JAK/STAT signaling pathway	Literature
+SF3B1	ambiguous	Ma_2018	TALL	Splicing	PANCAN_PAPER
+DHX15	act	Ma_2018	TALL	NF-KappaB signaling	Literature
+U2AF1	ambiguous	Ma_2018	TALL	Splicing	PANCAN_PAPER
+C-MYC	act	Vlierberghe_2012	TALL	Notch signaling pathway	GeneCard
+WT1	lof	Vlierberghe_2012/Ma_2018	TALL	Transcription factor	PANCAN_PAPER
+BCL11B	lof	Vlierberghe_2012/Ma_2018	TALL	NF-KappaB signaling	GeneCard
+GATA3	lof	Vlierberghe_2012/Ma_2018	TALL	Transcription factor	PANCAN_PAPER
+BCOR	act	Ma_2018	TALL	Chromatin other	PANCAN_PAPER
+MYCN	lof	Ma_2018	TALL	Wnt signaling pathway	PANTHER
+DNM2	lof	Ma_2018/Neumann_2013 	TALL	Notch signaling pathway	GeneCard
+TAL2	act	Vlierberghe_2012/Ma_2018/Forero_2013	TALL	NF-KappaB signaling	GeneCard
+TLX1	act	Vlierberghe_2012/Ma_2018	TALL	Transcriptional misregulation in cancer	REACTOME
+MGA	lof	Ma_2018	ALL	Transcription factor	PANCAN_PAPER
+TBL1XR1	lof	Ma_2018	BALL	Wnt signaling pathway	PANTHER
+MEF2C	act	Homminga_2011/Canté-barrett_2014	ALL	B-cell receptor signaling	GeneCard
+TAL1	act	Vlierberghe_2012/Ma_2018/King_Tan_2019	TALL	NF-KappaB signaling	GeneCard
+CNOT3	lof	Ma_2018	TALL	RNA abundance	GeneCard
+CNOT1	lof	aecc_analysis	ALL	RNA abundance	GeneCard
+FAT1	lof	Neumann_2014	TALL	Wnt signaling pathway	PANTHER
+FAT3	lof	Neumann_2013	TALL	Wnt signaling pathway	PANTHER
+NUP98	act	Ma_2018	TALL		
+ZFP36L2	lof	Ma_2018	TALL	RNA abundance	PANCAN_PAPER
+MLLT1		Ma_2018	TALL	Transcriptional misregulation in cancer	GeneCard
+TSPYL2		Ma_2018	TALL	TGF-beta signaling pathway	Literature
+ZBTB7A	lof	Ma_2018	TALL	p53 pathway	Literature
+USP9X	lof	Ma_2018	ALL	Ubiquitin proteasome pathway	PANCAN_PAPER
+BAZ1A		Ma_2018	TALL	Chromatin histone modifiers	GeneCard
+DDX3X	lof	Ma_2018	TALL	RNA abundance	PANCAN_PAPER
+MLLT10	lof	Ma_2018	TALL		
+WAC		Ma_2018	ALL	Ubiquitin proteasome pathway	REACTOME
+MED12	lof	Ma_2018	TALL	Transcription factor	PANCAN_PAPER
+NUP214		Ma_2018	TALL		
+TCF7	lof	Ma_2018	TALL	Wnt signaling pathway	PANTHER
+USP7	act	Ma_2018	TALL	Ubiquitin proteasome pathway	GeneCard
+ADD3		Ma_2018	ALL	PKA Signaling	GeneCard
+ZNF384	act	Ma_2018	BALL	Ras Pathway	Literature
+TOX	lof	Ma_2018	BALL	DNA repair	REACTOME
+ATRX	act	Lindqvist_2016/Ma_2015/Ma_2018	BALL	Chromatin SWI/SNF complex	PANCAN_PAPER
+MEF2D	act	Ma_2018/Canté-barrett_2014	BALL	B-cell receptor signaling	GeneCard
+INO80		Ma_2018	BALL	Wnt signaling pathway	PANTHER
+NT5C2	act	Oshima_2016	ALL	Pyrimidine/purine metabolism	Literature
+ZFHX3	lof	Oshima_2016	ALL	Transcription factor	PANCAN_PAPER
+GNB1	act	Zimmermanova_2017/aecc_analysis	BALL	PI3 kinase pathway	Literature
+NEIL3	act	aecc_analysis	ALL	Base excision repair	GeneCard
+ROR1	act	Bicocca_2012, aecc_analysis	BALL	Ras Pathway	Literature
+PER1	lof	Yang_2015	ALL	Gonadotropin-releasing hormone receptor pathway	PANTHER
+ZKSCAN4	lof	aecc_analysis	ALL		
+ZNF268		aecc_analysis	ALL		
+MUM1	lof	aecc_analysis/Adamaki_2013/Kataoka_2015 	ALL	NF-KappaB signaling	GeneCard
+ZEB2	act	aecc_analysis/Goossens_2015	ALL	TGF-beta signaling pathway	GeneCard
+CHD2		Ma_2015	ALL	Chromatin histone modifiers	REACTOME
+FUBP1		Lindqvist_2016	ALL	Transcription factor	PANCAN_PAPER
+ZC3H18		aecc_analysis	ALL	RNA abundance	Literature
+PRDM1		aecc_analysis	ALL	p53 pathway	GeneCard
+EHMT2	lof	Holmfledt_2013 /aecc_analysis	ALL	Chromatin histone modifiers	REACTOME
+PRKD1		aecc_analysis	ALL	EGF receptor signaling pathway	PANTHER
+CIC	lof	aecc_analysis/tan_2018	ALL	Transcription factor	PANCAN_PAPER
+ZMIZ1		aecc_analysis	ALL	Notch signaling pathway	Literature
+HSPG2		aecc_analysis	ALL	Interleukin signaling pathway	GeneCard
+ME1		aecc_analysis	ALL	Pyruvate metabolism	PANTHER
+ITGB1		aecc_analysis	ALL	Inflammation mediated by chemokine and cytokine signaling pathway	PANTHER
+MAGEC3	lof	Keersmaecker_2013	TALL		
+ODZ2		Keersmaecker_2013	TALL		
+CASP8AP2	lof	Kunz_2015/Jiao_2012	TALL	Apoptosis signaling pathway	GeneCard
+BLM	lof	Kunz_2015	TALL	Cell cycle	GeneCard
+MAPK1	act	Holmfledt_2013	ALL	Apoptosis signaling pathway	PANTHER
+KIF1B	lof	Lindqvist_2016	TALL	PI3 kinase pathway	GeneCard
+LCK	act	Lindqvist_2016	TALL	T cell activation	PANTHER
+AFF1	act	Lindqvist_2016	TALL	Transcriptional misregulation in cancer	GeneCard
+TFG		Liu_2017	TALL	TGF-beta signaling pathway	REACTOME
+ARID5B	act	Ge_2018	BALL	Chromatin histone modifiers	PANCAN_PAPER
+BAX	lof	Findley_1997	TALL	Apoptosis signaling pathway	PANTHER
+BCL10	lof	Grimwade_2000	TALL	NF-KappaB signaling	GeneCard
+ECT2L	act	Zhang_2012	TALL	Regulation of Rho protein signal transduction	GeneCard
+KIT	act	Paietta_2004		RTK signaling	PANCAN_PAPER
+PTPRC	lof	Porcu_2012	TALL	JAK/STAT signaling pathway	PANTHER
+DHFR	act	Bertino_1996	ALL	Metabolism of folate and pterines	PANTHER
+E2F	act	Bertino_1996	ALL	Cell cycle	GeneCard
+E2F1	act	Bertino_1996	ALL	Cell cycle	GeneCard
+SLC19A1	lof	Bertino_1996	ALL	Metabolism of folate and pterines	REACTOME
+GGH 	act	Bertino_1996	ALL	Metabolism of folate and pterines	Literature
+NT5DC4			ALL	Pyrimidine/purine metabolism	Literature
+ZFP36L1	lof	Belver_2016	TALL	RNA abundance	PANCAN_PAPER
+PRPS1	act	Li_2020	ALL	Pyrimidine/purine metabolism	GeneCard
+PRPS2	act	Li_2020	ALL	Pyrimidine/purine metabolism	GeneCard
+FPGS	lof	Li_2020	ALL	Metabolism of folate and pterines	REACTOME
+

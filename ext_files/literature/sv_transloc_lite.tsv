@@ -1,0 +1,114 @@
+SYMBOL	CHROM_L	BAND_L	CHROM_R	BAND_R	ALL_TYPE	SOURCE	COMMENT
+BCR-ABL1	9	q34	22	q11	ALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	oncogene
+EML1-ABL1	9	q34	14	q32	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	oncogene
+TRA-MYC	8	q24	14	q11	ALL	Vlierberghe_2012/Atlas of Genetics and Cytogenetics in Oncology and Haematology	oncogene
+TRB-LMO2	7	q35	11	p13	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-NOTCH1	7	q34	9	q34	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR; subband 9q34.3
+TRB-TAL2	7	q34	9	q32	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-LYL1	7	q34	19	p13	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-CCND2	7	q34	12	p13	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-LMO1	7	q34	11	p15	TALL	Vlierberghe_2012/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-TLX1	7	q34	10	q24	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+HOXA	7	p15	7	q34	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-MYB	6	q23	7	q34	TALL	Girardi_2017/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+BCL11B-TLX3	5	q35	14	q32	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+CCN2	12	p13	14	q11	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRD-LMO1	11	p15	14	q11	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRD-LMO2	11	p13	14	q11	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TLX1-TRD	10	q24	14	q11	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRB-LCK	1	p34	7	q34	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+TRA-TAL1	1	p32	14	q11	TALL	Chiaretti_2009/Atlas of Genetics and Cytogenetics in Oncology and Haematology	TCR
+IGH-CRLF2	Y	p11	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IRS4-TRB	X	q22	7	q34	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-CRLF2	X	p22	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+DDX3X-MLLT10	X	p11	10	p12	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NUP214-ABL1	9	q34	9	q34	TALL	Chiaretti_2009	oncogene
+ETV6-ABL1	9	q34	12	p13	TALL	Belver_2016	oncogene
+ZMIZ1-ABL1	9	q34	10	q22	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+STRN3-JAK2	9	p24	14	q12	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+ETV6-JAK2	9	p24	12	p13	TALL	Chiaretti_2009	oncogene
+PAX5-JAK2	9	p13	9	p24	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-BRD1	9	p13	22	q13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-NCOR1	9	p13	17	p12	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5	9	p13	15	q24	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-DACH1	9	p12	13	q21	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+?-MYC	8	q24	9	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGL-MYC	8	q24	22	q11	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-MYC	8	q24	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+ETV6-NCOA2	8	q13	12	p13	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TRA-TRB	7	q34	14	q11	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+CUX1-NUTM1	7	q22	15	q14	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-AUTS2	7	q11.2	9	p13.2	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-ELN	7	q11	9	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-POM121	7	q11	9	p12	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TRD-HOXA10	7	p15	14	q11	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+	6	q15	12	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+EEF1G-OOEP	6	q13	11	q12	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-ID4	6	p22	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TLX3-CDK6	5	q35	7	q21	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+BCL11B-TLX3 and NKX2-5 	5	q35	14	q32.2	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+CEP85L-PDGFRB	5	q33	6	q23	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+ATF7IP-PDGFRB	5	q33	12	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NUMA1-PDGFRB	5	q33	11	q13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-IL3	5	q31	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+SSBP2-JAK2	5	q14.1	9	p24	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+	5	q13	17	q21	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+	5	p15	15	q11	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+RUNX1-?	4	q31	21	q22	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NUP98-RAP1GDS1	4	q23	11	p15	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NUP98-RAP1GDS1	4	q21	11	p15	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NUP98-IQCG	3	q29	11	p15	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+KMT2A-EEFSEC	3	q21	11	q23	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+LNP1-NUP98	3	q12.2	11	p15.4	TALL	Gough_2011	
+FOXP1-ABL1	3	p13	9	q34.1	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+FOXP1-PAX5	3	p13	9	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+INPP5D-ABL1	2	q37	9	q34	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+	2	q11	21	q22	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+KMT2A-AFF3	2	q11	11	q23	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-KIDINS220	2	p24	9	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-BCL11A	2	p13-16	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGK-MYC	2	p12	8	q24	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-?	2	p11	9	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGK-BCL2	2	p11	18	q21	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TCF3-TFPT	19	p13	19	q13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGL-BCL2	18	q21	22	q11	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TCF3-HLF	17	q22	19	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-CEBPB	14	q32	20	q13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-Various Partners	14	q32	19	q13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-BCL2	14	q32	18	q21	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-IGF2BP1	14	q32	17	q21	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+BHLHB1	14	q11.2	21	q22	TALL	Chiaretti_2009	TCR
+TRA-OLIG2	14	q11	21	q22	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NKX2-2	14	q11	20	p11	TALL	Girardi_2017	TCR
+CEBPE-IGH	14	q11	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+NKX2-1	14	q11	14	q13	TALL	Girardi_2017	TCR
+TCF3-?	13	q14	19	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+EWSR1-ZNF384	12	p13	22	q12	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+ETV6-RUNX1	12	p13	21	q22	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TCF3-ZNF384	12	p13	19	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+in ALL	12	p13	17	q11-21	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TAF15-ZNF384	12	p13	17	q11	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-ETV6	12	p13	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-MIR125B1	11	q24	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+KMT2A-MAPRE1	11	q23	20	q11	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+KMT2A-ACER1	11	q23	19	p13.3	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+KMT2A-MLLT1	11	q23	19	p13	TALL	Belver_2016	oncogene
+NUP98-SETBP1	11	p15	18	q12	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+SPI1	11	p11	14	q32	TALL	Girardi_2017	TCR
+NUP98-ADD3	10	q25	11	p15	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PICALM–MLLT10	10	p13	11	q14	TALL	Chiaretti_2009	oncogene
+CTNNA3-ARHGAP21	10	p12	10	q21	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGH-LHX4	1	q25	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+RCSD1-ABL1	1	q24	9	q34	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+RCSD1-ABL2	1	q24	1	q25	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TCF3-PBX1	1	q23	19	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+MEF2D	1	q22	19	p13.2	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+IGL-BCL9	1	q21	22	q11	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+BCL9-IGH	1	q21	14	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+SFPQ-ABL1	1	p34	9	q34	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TRB-TAL1	1	p32	7	q34	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TAL1	1	p32	7	q24	TALL	Chiaretti_2009	TCR
+?-TAL1	1	p32	5	q31	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+TCTA-TAL1	1	p32	3	p21	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+PAX5-HIPK1	1	p13	9	p12	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	
+	1	p11-13	8	q24	TALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	

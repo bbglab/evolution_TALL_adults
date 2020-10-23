@@ -1,0 +1,13 @@
+SYMBOL	CHROM	BAND	ALL_TYPE	SOURCE
+SIL-TAL1	1	p32	TALL	Chiaretti_2009
+MEF2C	5	q14	TALL	Chiaretti_2009
+TLX1	10	q24	TALL	Belver_2016
+SET2-NUP14	9	q34	TALL	Belver_2016
+PTEN	10	q23	TALL	Belver_2016
+RB1	13	q14.2	TALL	Belver_2016
+LMO2	11	p13	TALL	Vlierberghe_2012
+CDKN1B	12	p13	TALL	Vlierberghe_2012
+CDKN2A/2B	9	p21	TALL	Belver_2016
+EBF1-PDGFRB	5	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology
+PAX5-JAK2	9	p13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology
+P2RY8-CRLF2	X	p22	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology

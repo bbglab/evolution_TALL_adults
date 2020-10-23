@@ -1,0 +1,9 @@
+SYMBOL	CHROM	BAND_L	BAND_R	ALL_TYPE	SOURCE	VARIANT
+TRB-HOXA10	7	p15	q34	TALL	Belver_2016	inv
+NKX2-1	14	q11.2	q13	TALL	Belver_2016	inv
+NKX2-1	14	q13	q32.33	TALL	Belver_2016	inv
+RCSD1-ABL2	1	q24	q25	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	inv
+KMT2A-BTBD18	11	q13	q23	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	inv
+CEBPE-IGH	14	q11	q32	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	inv
+TCF3-TFPT	19	p13	q13	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	inv
+PAX5/JAK2	9	p13	p24	BALL	Atlas of Genetics and Cytogenetics in Oncology and Haematology	inv

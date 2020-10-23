@@ -1,0 +1,37 @@
+SYMBOL	BAND	CNV	TYPE	SOURCE	COMMENT	ROLE	PATHWAY	PATHWAY_SOURCE
+TAL1	1p32	del	TALL	Vlierberghe_2012/Iolascon_1997	deletions in the 1p32 band creates overexpression in TAL1	act	NF-KappaB signaling	GeneCard
+LMO2	11p13	del	TALL	Vlierberghe_2012	deletions in 11p13 can leadto activation of LMO2	act	Regulation of hematopoietic stem cell differentiation	GeneCard
+CDKN2A	9p21	del	TALL	Vlierberghe_2012		lof	Cell cycle	PANCAN_PAPER
+CDKN2B	9p21	del	TALL	Vlierberghe_2012		lof	Cell cycle	GeneCard
+RB1	13q14	del	TALL	Vlierberghe_2012		lof	p53 pathway	PANTHER
+CDKN1B	12p13	del	TALL	Vlierberghe_2012		lof	Cell cycle	PANCAN_PAPER
+PTEN	10q23	del	TALL	Vlierberghe_2012		lof	PI3 kinase pathway	Literature
+ABL1	9q34.12	amp	TALL	Vlierberghe_2012	episomal amplifications of the fusion NUP214-ABL1	act	Integrin signalling pathway	PANTHER
+NUP214	9q34.13	amp	TALL	Vlierberghe_2012	episomal amplifications of the fusion NUP214-ABL1			
+PKN3	9q34.11	del	TALL	Vlierberghe_2008	Deletion results in SET-NUP214 fusion product that overexpresses HOXA genes	act	PI3 kinase pathway	Literature
+ABL1	9q34.12	del	TALL	Vlierberghe_2008	Deletion results in SET-NUP214 fusion product that overexpresses HOXA genes	act	Integrin signalling pathway	PANTHER
+HOXA1	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA3	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA4	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA5	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA6	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA7	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA9	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+HOXA10	7p15.2	amp	ALL	Vlierberghe_2008/Chen_2019		act	Transcription factor	Literature
+PAX5	9p13.2	del	BALL	Ma_2018		lof	Transcriptional misregulation in cancer	GeneCard
+IKZF1	7p12.2	del 	ALL	Mullighan_2008		lof	NF-KappaB signaling	GeneCard
+BTG1	12q21.33	del	BALL	Lundin_2012/Fang_2018		lof	Cell cycle	GeneCard
+EBF1	5q33.3	del	BALL	Fang_2018/Ramírez-Komo _‎2017		lof	Transcriptional regulation of white adipocyte differentiation	REACTOME
+DAP3	1q22	amp	BALL	Paulsson_2009		act	Apoptosis signaling pathway	Literature
+RGS16	1q25.3	amp	BALL	Paulsson_2009		act	G Protein-coupled Receptors Signaling	Literature
+RUNX1	21q22.12	amp	BALL	Soulier_2003		lof	Transcription factor	PANCAN_PAPER
+IL3RA	Xp22.33	amp	BALL	Forero-Castro_2016		act	JAK/STAT signaling pathway	GeneCard
+CSF2RA	Xp22.33	amp	BALL	Forero-Castro_2016		act	JAK/STAT signaling pathway	GeneCard
+CRLF2	Xp22.33	amp	BALL	Forero-Castro_2016		act	JAK/STAT signaling pathway	GeneCard
+MYC	8q24	amp	ALL/AML	de_Barrios_2020		act	Notch signaling pathway	GeneCard
+TP53	17p13.1	del 	ALL/CLL	Stengel_2014		lof	p53 pathway	PANTHER
+ABCB1	7q21.12	amp	ALL	Kosztyu_2014/Steinbach_2007		act	ATP-binding cassette (ABC) transporter superfamily	GeneCard
+ABCG2	4q22.1	amp	ALL	Steinbach_2007		act	ATP-binding cassette (ABC) transporter superfamily	GeneCard
+ABCC3	17q21.33	amp	ALL	Steinbach_2007		act	ATP-binding cassette (ABC) transporter superfamily	GeneCard
+ABCA3	16p13.3	amp	ALL	Steinbach_2007		act	ATP-binding cassette (ABC) transporter superfamily	GeneCard
+MPO	17q22	amp	ALL	Oberley_2017		act	NF-KappaB signaling	GeneCard

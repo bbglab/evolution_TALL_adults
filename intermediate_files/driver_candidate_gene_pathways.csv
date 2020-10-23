@@ -1,0 +1,182 @@
+PATHWAY	PATHWAY_SOURCE	SYMBOL
+Integrin signalling pathway	PANTHER	ABL1
+PKA Signaling	GeneCard	ADD3
+Transcriptional misregulation in cancer	GeneCard	AFF1
+PI3 kinase pathway	GeneCard	AKT1
+Wnt signaling pathway	PANTHER	ARID1A
+Chromatin SWI/SNF complex	PANCAN_PAPER	ARID2
+Chromatin histone modifiers	PANCAN_PAPER	ARID5B
+Chromatin other	PANCAN_PAPER	ASXL1
+Chromatin other	PANCAN_PAPER	ASXL2
+Chromatin SWI/SNF complex	PANCAN_PAPER	ATRX
+Apoptosis signaling pathway	PANTHER	BAX
+Chromatin histone modifiers	GeneCard	BAZ1A
+NF-KappaB signaling	GeneCard	BCL10
+NF-KappaB signaling	GeneCard	BCL11B
+Chromatin other	PANCAN_PAPER	BCOR
+Cell cycle	GeneCard	BLM
+Cell cycle	GeneCard	BTG1
+Notch signaling pathway	GeneCard	C-MYC
+		CAMTA1
+Apoptosis signaling pathway	GeneCard	CASP8AP2
+Ras Pathway	PANTHER	CBL
+Cell cycle	PANTHER	CCND3
+Cell-cell adhesion	GeneCard	CD200
+Cell cycle	PANCAN_PAPER	CDKN2A
+Cell cycle	GeneCard	CDKN2B
+Chromatin histone modifiers	REACTOME	CHD2
+Chromatin other	PANCAN_PAPER	CHD4
+Transcription factor	PANCAN_PAPER	CIC
+RNA abundance	GeneCard	CNOT1
+RNA abundance	GeneCard	CNOT3
+Wnt signaling pathway	PANTHER	CREBBP
+JAK/STAT signaling pathway	GeneCard	CRLF2
+Chromatin other	PANCAN_PAPER	CTCF
+RNA abundance	PANCAN_PAPER	DDX3X
+Metabolism of folate and pterines	PANTHER	DHFR
+NF-KappaB signaling	Literature	DHX15
+Notch signaling pathway	GeneCard	DNM2
+Epigenetics DNA modifiers	PANCAN_PAPER	DNMT3A
+Cell cycle	GeneCard	E2F
+Cell cycle	GeneCard	E2F1
+Transcriptional regulation of white adipocyte differentiation	REACTOME	EBF1
+Regulation of Rho protein signal transduction	GeneCard	ECT2L
+Chromatin histone modifiers	GeneCard	EED
+Chromatin histone modifiers	REACTOME	EHMT2
+Wnt signaling pathway	PANTHER	EP300
+PDGF signaling pathway	PANTHER	ERG
+Transcriptional misregulation in cancer	GeneCard	ETV6
+Chromatin histone modifiers	GeneCard	EZH2
+Wnt signaling pathway	PANTHER	FAT1
+Wnt signaling pathway	PANTHER	FAT3
+Notch signaling pathway	PANTHER	FBXW7
+Ras Pathway	literature	FLT3
+Metabolism of folate and pterines	REACTOME	FPGS
+Transcription factor	PANCAN_PAPER	FUBP1
+Cadherin signaling pathway	PANTHER	FYN
+Transcription factor	PANCAN_PAPER	GATA3
+Metabolism of folate and pterines	Literature	GGH 
+PI3 kinase pathway	Literature	GNB1
+Interleukin signaling pathway	GeneCard	HSPG2
+Metabolism	PANCAN_PAPER	IDH1
+Metabolism	PANCAN_PAPER	IDH2
+NF-KappaB signaling	GeneCard	IKZF1
+NF-KappaB signaling	GeneCard	IKZF5
+JAK/STAT signaling pathway	Literature	IL7R
+Wnt signaling pathway	PANTHER	INO80
+Inflammation mediated by chemokine and cytokine signaling pathway	PANTHER	ITGB1
+JAK/STAT signaling pathway	PANTHER	JAK1
+JAK/STAT signaling pathway	PANTHER	JAK2
+JAK/STAT signaling pathway	PANTHER	JAK3
+Chromatin histone modifiers	PANCAN_PAPER	KDM6A
+PI3 kinase pathway	GeneCard	KIF1B
+RTK signaling	PANCAN_PAPER	KIT
+Chromatin histone modifiers	PANCAN_PAPER	KMT2A
+Chromatin histone modifiers	PANCAN_PAPER	KMT2C
+Chromatin histone modifiers	PANCAN_PAPER	KMT2D
+Ras Pathway	Literature	KRAS
+Transcriptional misregulation in cancer	REACTOME	L1TD1
+T cell activation	PANTHER	LCK
+Wnt signaling pathway	PANTHER	LEF1
+Metabolism	GeneCard	LRP8
+		MAGEC3
+Apoptosis signaling pathway	PANTHER	MAPK1
+Pyruvate metabolism	PANTHER	ME1
+Transcription factor	PANCAN_PAPER	MED12
+B-cell receptor signaling	GeneCard	MEF2D
+Transcription factor	PANCAN_PAPER	MGA
+Transcriptional misregulation in cancer	GeneCard	MLLT1
+		MLLT10
+Genome integrity	PANCAN_PAPER	MSH6
+PI3 kinase pathway	GeneCard	mTOR
+PI3 kinase pathway	GeneCard	MTOR
+NF-KappaB signaling	GeneCard	MUM1
+Wnt signaling pathway	PANTHER	MYCN
+Chromatin histone modifiers	PANTHER	NCOR1
+Base excision repair	GeneCard	NEIL3
+Ras Pathway	literature	NF1
+Notch signaling pathway	PANTHER	NOTCH1
+Notch signaling pathway	PANTHER	NOTCH2
+Gonadotropin-releasing hormone receptor pathway	PANTHER	NR3C1
+Gonadotropin-releasing hormone receptor pathway	PANTHER	NR3C2
+Ras Pathway	Literature	NRAS
+Pyrimidine/purine metabolism	Literature	NT5C2
+Pyrimidine/purine metabolism	Literature	NT5DC4
+		NUP214
+		NUP98
+		ODZ2
+PI3 kinase pathway	GeneCard	PAG1
+Transcriptional misregulation in cancer	GeneCard	PAX5
+Gonadotropin-releasing hormone receptor pathway	PANTHER	PER1
+Chromatin other	PANTHER	PHF6
+PI3 kinase pathway	PANTHER	PIK3CA
+PI3 kinase pathway	PANTHER	PIK3CD
+PI3 kinase pathway	PANTHER	PIK3R1
+p53 pathway	GeneCard	PRDM1
+EGF receptor signaling pathway	PANTHER	PRKD1
+Pyrimidine/purine metabolism	GeneCard	PRPS1
+Pyrimidine/purine metabolism	GeneCard	PRPS2
+PI3 kinase pathway	Literature	PTEN
+Ras Pathway	Literature	PTPN11
+JAK/STAT signaling pathway	Literature	PTPN2
+JAK/STAT signaling pathway	PANTHER	PTPRC
+Cytokine Signaling in Immune system	REACTOME	RAG1
+Cytokine Signaling in Immune system	REACTOME	RAG2
+p53 pathway	PANTHER	RB1
+Signaling by ROBO receptors	REACTOME	ROBO2
+Ras Pathway	Literature	ROR1
+PI3 kinase pathway	Literature	ROS1
+JAK/STAT signaling pathway	Literature	RPL10
+NF-KappaB signaling	Literature	RPL22
+p53 pathway	Literature	RPL5
+Transcription factor	PANCAN_PAPER	RUNX1
+Chromatin histone modifiers	PANCAN_PAPER	SETD2
+Splicing	PANCAN_PAPER	SF3B1
+JAK/STAT signaling pathway	Literature	SH2B3
+Metabolism of folate and pterines	REACTOME	SLC19A1
+Wnt signaling pathway	PANTHER	SMARCA4
+JAK/STAT signaling pathway	PANTHER	STAT5B
+Chromatin histone modifiers	REACTOME	SUZ12
+NF-KappaB signaling	GeneCard	TAL1
+NF-KappaB signaling	GeneCard	TAL2
+Notch signaling pathway	PANTHER	TAN1
+Wnt signaling pathway	PANTHER	TBL1XR1
+Wnt signaling pathway	PANTHER	TCF3
+Wnt signaling pathway	PANTHER	TCF7
+Chromatin other	Literature	TET2
+TGF-beta signaling pathway	REACTOME	TFG
+Transcriptional misregulation in cancer	REACTOME	TLX1
+DNA repair	REACTOME	TOX
+p53 pathway	PANTHER	TP53
+TGF-beta signaling pathway	Literature	TSPYL2
+Splicing	PANCAN_PAPER	U2AF1
+Ubiquitin proteasome pathway	GeneCard	USP7
+Ubiquitin proteasome pathway	GeneCard	USP8
+Ubiquitin proteasome pathway	PANCAN_PAPER	USP9X
+Ubiquitin proteasome pathway	REACTOME	WAC
+Chromatin histone modifiers	PANCAN_PAPER	WHSC1
+Transcription factor	PANCAN_PAPER	WT1
+p53 pathway	Literature	XBP1
+p53 pathway	Literature	ZBTB7A
+RNA abundance	Literature	ZC3H18
+TGF-beta signaling pathway	GeneCard	ZEB2
+Transcription factor	PANCAN_PAPER	ZFHX3
+RNA abundance	PANCAN_PAPER	ZFP36L1
+RNA abundance	PANCAN_PAPER	ZFP36L2
+		ZKSCAN4
+Notch signaling pathway	Literature	ZMIZ1
+		ZNF217
+		ZNF268
+Ras Pathway	Literature	ZNF384
+Gap junction degradation	REACTOME	CLTCL1
+Apoptosis signaling pathway	GeneCard	MAP3K4
+Transcriptional misregulation in cancer	GeneCard	ETV1
+Mismatch repair pathway	GeneCard	MSH3
+Metabolism	REACTOME	GOT2
+Metabolism	GeneCard	LRP1B
+Gonadotropin-releasing hormone receptor pathway	PANTHER	AR
+Nonhomologous End-Joining (NHEJ)	REACTOME	DCLRE1C
+Metabolism	GeneCard	LRP1
+Notch signaling pathway	GeneCard	MYC
+PI3 kinase pathway	PANTHER	PIK3R5
+B-cell receptor signaling	GeneCard	MEF2C

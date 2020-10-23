@@ -1,0 +1,1 @@
+FACETS runs first snp-pileup (external code to FACETS) to impute SNPs. The file used to do that is called 00-common_all.vcf and can be downloaded following the instruccions of external code of FACETS https://github.com/mskcc/facets/tree/master/inst/extcode
